@@ -1,1 +1,3 @@
-# Data-Science-Projects-PDF
+# Data-Science-Projects
+
+Three projects, exploring PCA, Regressing, Data Cleanning etc
